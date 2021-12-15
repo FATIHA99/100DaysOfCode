@@ -29,3 +29,17 @@ I already have basic knowledge of programming so I wont take too much time to le
 ### others
 
 - I did some researches about **Kanban**, GitHub Projects, Github PR and issues, and how to work as a scrum master, how to manage my squad, how to convert big topics/problems into small problems and try to solve them together (tbh it's like a boring theory but I've to :[ )
+
+# day 2:
+
+today I created [this repo](https://github.com/CH4R4F/desi.gn), It's my first project at Youcode to work in a groub, I was the scrum master so I hove to manage the work.
+
+## what I learned
+
+- creating issues and managing them using github kanban template.
+- managing a team for the first time (and the last time 😫), I didn't like being the scrum master bcs It's my first time, and bcs I don't like big responsibilities, and I have to make sure that everyone can work with his task.
+- I did the design and testing parts so I learned too much stuff about _Adobe XD_ and I'm proud of our progress
+
+i didn't make a greate progress today because I have a lot of stuff to manage, this weeks are full of school projects which will makes me slow to finish my todos for this month.
+
+> I haaaaaaaate being the scrum master
